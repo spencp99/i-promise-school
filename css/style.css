@@ -275,6 +275,11 @@ cite {
 
   .speech {
     font-size: 25px;
+    text-align: center;
+  }
+
+  .big-title {
+    font-size: 60px;
   }
 
   .long-header {
@@ -291,9 +296,9 @@ cite {
   }
 
   .fig-video {
-    width: 550px;
-    height: 300px;
-    padding-left: 75px;
+    width: 1100px;
+    height: 700px;
+    padding-left: 50px;
   }
 
   cite {
